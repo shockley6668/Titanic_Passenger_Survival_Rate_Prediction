@@ -31,16 +31,16 @@ This Project used seven AI algorithms to predict the survival rate of Titanic pa
 * K-Nearest Neighbours(KNN)
 * Naive Bayes
 ## Data Preprocessing
-We performed the following data preprocessing steps:
+I performed the following data preprocessing steps:
 
-Missing value imputation: We imputed missing values for continuous variables using the mean value and for categorical variables using the mode value.
+Missing value imputation: I imputed missing values for continuous variables using the mean value and for categorical variables using the mode value.
 
-Feature standardization: We standardized the continuous variables to have a mean of 0 and a standard deviation of 1.
+Feature standardization: I standardized the continuous variables to have a mean of 0 and a standard deviation of 1.
 
-Feature selection: We used a combination of statistical tests and domain knowledge to select the most important features.
+Feature selection: I used a combination of statistical tests and domain knowledge to select the most important features.
 
-Feature correlation analysis: We analyzed the correlation between features to identify any potential multicollinearity issues.
+Feature correlation analysis: I analyzed the correlation between features to identify any potential multicollinearity issues.
 ## Results
 
-The results of our experiments showed that all seven algorithms were able to predict the survival rate of Titanic passengers with a high degree of accuracy. The Radial SVM algorithm had the highest accuracy, followed by the KNN algorithm and the logistic regression algorithm.
+The results of this experiments showed that all seven algorithms were able to predict the survival rate of Titanic passengers with a high degree of accuracy. The Radial SVM algorithm had the highest accuracy, followed by the KNN algorithm and the logistic regression algorithm.
 ![结果](picture/img_1.png )
