@@ -11,6 +11,7 @@
 * scikit-learn 1.1.3
 # Project construction
 ![程序框图](picture/img.png )
+
 this picture show you the construction of this project
 ## Introduction
 The sinking of the Titanic is one of the most infamous maritime disasters in history. On April 15, 1912, the Titanic struck an iceberg and sank in the North Atlantic Ocean, killing over 1,500 passengers and crew members.
@@ -41,5 +42,5 @@ Feature selection: We used a combination of statistical tests and domain knowled
 Feature correlation analysis: We analyzed the correlation between features to identify any potential multicollinearity issues.
 ## Results
 
-The results of our experiments showed that all seven algorithms are able to predict the survival rate of Titanic passengers with a high degree of accuracy. The Radial SVM algorithm had the highest accuracy, followed by the KNN algorithm and the logistic regression algorithm.
-
+The results of our experiments showed that all seven algorithms were able to predict the survival rate of Titanic passengers with a high degree of accuracy. The Radial SVM algorithm had the highest accuracy, followed by the KNN algorithm and the logistic regression algorithm.
+![结果](picture/img_1.png )
